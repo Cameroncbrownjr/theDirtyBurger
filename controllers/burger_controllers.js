@@ -28,6 +28,7 @@ router.put("/api/burger/:id", function (req, res) {
             return res.status(404).end();
         }
         res.status(200).end();
+
     }
     );
 });

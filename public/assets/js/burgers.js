@@ -11,7 +11,7 @@ $(document).ready(function () {
             }
         );
     });
-    
+
 
     $('#submit').on('click', function () {
         $.post('/api/burger', $('input'))
