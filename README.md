@@ -1,7 +1,7 @@
 # theDirtyBurger
 
 ## live demo 
-https://morning-brook-11839.herokuapp.com/
+https://morning-brook-11839.herokuapp.com
 
 ## technologies used
 
