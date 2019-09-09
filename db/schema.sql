@@ -12,3 +12,5 @@ CREATE TABLE burgers
 INSERT INTO burgers (name) VALUES ('Beef Burger');
 INSERT INTO burgers (name) VALUES ('Fish Burger');
 INSERT INTO burgers (name) VALUES ('Chicken Burger');
+
+6eb0ddf0
